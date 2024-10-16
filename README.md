@@ -5,12 +5,12 @@ Sou Emanuelle, uma pessoa estudiosa e dedicada, sempre motivada a aprender coisa
 
 ## 🛠️ Tecnologias que utilizo
 - 💻 **Linguagens:** Python, C, PHP, HTML, CSS  
-- ⚡ **Ferramentas:** VsCode
+- ⚡ **Ferramentas:** Visual Studio Code
 
 
 
 ## 🌱 O que estou estudando atualmente
-Análise e Desenvolvimento de Sistemas na Unipê.
+Análise e Desenvolvimento de Sistemas no Unipê.
 
 
 
